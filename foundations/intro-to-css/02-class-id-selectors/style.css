@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.pclass{
+    background-color: rgba(255,00,00,0.2);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.pclass.number3{
+    font-size: 24px;
+}
+
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+
+#div2{
+    background-color: rgba(00,255,00,0.2);
+    font-size: 24px;
+    font-weight: bold;
+}
